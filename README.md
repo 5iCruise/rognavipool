@@ -1,8 +1,11 @@
-# 🌐 导航网站项目
+---
+project name:  导航网站
+updated:  2025-12-11
+---
 
 ## 📖 项目介绍
 
-这是一个基于飞书多维表格开发的导航网站。 **在线演示地址**：[https://testnav-one.vercel.app/](https://testnav-one.vercel.app/)
+这是一个基于飞书多维表格开发的导航网站。 **原作者在线演示地址**：[https://testnav-one.vercel.app/](https://testnav-one.vercel.app/)
 
 <table>
   <tr>
@@ -47,7 +50,7 @@
 
 ### 🌐 部署支持
 - **Vercel**：已配置vercel.json，支持一键部署 使用Vercel一键部署 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/wubh2012/navsite)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/5iCruise/rognavipool)
 - **PWA 支持**：满足 Progressive Web App 标准，支持离线访问和桌面安装
 
 
